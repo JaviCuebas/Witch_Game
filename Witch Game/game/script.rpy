@@ -8,6 +8,7 @@ define l = Character(_("Lottie"), color="#e60073")
 define lu = Character(_("Lucina"), color="#00cc44")
 
 
+
 # The game starts here.
 
 label start:
@@ -102,7 +103,9 @@ label start:
 
     lu "fuck you Lottie!."
 
-    
+    lu "fuck you mamahuevo."
+
+
 
 
 
