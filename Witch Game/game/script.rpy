@@ -92,18 +92,39 @@ label start:
 
     lu "A little better customer service wouldn’t hurt though"
 
-    l "You either pay me or leave bud.
-    Not my fault your problems got so bad you had to
-    resort to damn tarot readings."
+    l "You either pay me or leave bud."
+    l "Not my fault your problems got so bad you had to resort to damn tarot readings."
+    lu "You’re crazy."
+    lu "For all you know I could just be asking for a general reading."
+    l "But you’re not, are you"
+
+    "Silence weighs heavy in the room as he shuffles in his seat defeatedly."
+    "He passes me thirty dollars worth of bills."
+
+    lu "Just shut up and read my cards already."
+
+    "I raise a brow and grab my deck from the table."
+
+    l "You gotta tell me what the problem is before I give you a reading, you know."
+
+    "He grunts and his eyes get shifty scanning all over the room, looking at anything that isn’t me."
+
+    lu "*sigh* Fine. I better get my money’s worth after all this…"
+
+    "He takes a deep breath."
+
+    lu "Long story short, my piece of shit girlfriend left me."
+
+    lu "I wanna know what led her to breaking up with me."
+
+    l "Damn, she broke up with you and didn’t even tell you why?"
+
+
 
     show lucina embarassed happy
     with dissolve
 
-    lu "yeet!."
 
-    lu "fuck you Lottie!."
-
-    lu "fuck you mamahuevo."
 
 
 
